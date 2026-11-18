@@ -2,6 +2,7 @@
 #include "course.hpp"
 using namespace course;
 
+//test for git
 struct Mesh 
 {
     GLuint vao=0,vbo=0,ebo=0;
